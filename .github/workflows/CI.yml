@@ -6,7 +6,7 @@ on:
 
 jobs:
   run-tests:
-    if: github.repository == 'githubtraining/exercise-reference-a-codeql-query'
+    if: github.repository == 'rbsloot/exercise-reference-a-codeql-query'
     runs-on: ubuntu-latest
     defaults:
       run:
